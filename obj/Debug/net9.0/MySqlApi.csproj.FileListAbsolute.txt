@@ -120,3 +120,4 @@ C:\Users\ASUS\MySqlApi\obj\Debug\net9.0\refint\MySqlApi.dll
 C:\Users\ASUS\MySqlApi\obj\Debug\net9.0\MySqlApi.pdb
 C:\Users\ASUS\MySqlApi\obj\Debug\net9.0\MySqlApi.genruntimeconfig.cache
 C:\Users\ASUS\MySqlApi\obj\Debug\net9.0\ref\MySqlApi.dll
+C:\Users\ASUS\MySqlApi\obj\Debug\net9.0\MySqlApi.sourcelink.json
